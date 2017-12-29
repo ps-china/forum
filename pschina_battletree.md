@@ -22,7 +22,7 @@ PS国服推出了新的人机对战模式——对战树单打3v3。在这个模
 
 首先来到PS国服 http://china.psim.us 
 - 对英文界面不适应的可以参考[汉化教程 by 圣光](https://github.com/kirliavc/blog/blob/master/pschina_trans.md)
-- 如果对PS的基础操作不了解，可以参考[基础操作教程 by 创世名扬](https://tieba.baidu.com/p/3590969883)
+- 如果对PS的基础操作不了解，可以参考[基础操作教程 by steve647](https://tieba.baidu.com/p/3212103101)
 
 在队伍编辑器里选择**Gen7 Battle Tree 3v3**分级，并组一个3只精灵的队伍
 
@@ -32,7 +32,7 @@ PS国服推出了新的人机对战模式——对战树单打3v3。在这个模
 
 组好队伍之后，点击上方的按钮确认该队伍是否合法。如果队伍合法，则可以开始与机器人进行对战。
 
-![][https://i.imgur.com/cvk27lk.jpg]
+![](https://i.imgur.com/cvk27lk.jpg)
 
 在PS国服点击ID **cecabot**，并点击名片下方的**Challenge**按钮
 
